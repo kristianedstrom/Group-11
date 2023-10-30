@@ -20,18 +20,18 @@ Use Case:  Calculate the total price of the building, as well as the costs for e
 
 **Analysis Required:**  It is important to combine different information to achieve a complete analysis. To achieve the goals of this use case, the following analyses are necessary: -  **Quantity Takeoff:**  The process of quantifying the number and dimensions of building components. -  **Price Estimation:**  Determining the cost of each component based on price information stored in property sets. -  **Area Calculation:**  Calculating the total area of specific building elements, such as walls.
 
-##Q: What building elements are you interested in?
+## Q: What building elements are you interested in?
 
 **Building Elements:**  The whole case include every building elements in the building, but we only focus on three primary building elements: -  **Windows:**  Calculation of the total number of windows and their associated costs. We retrieve the number of windows in the building and find the price of these. -  **Doors:**  Quantifying the number of doors and their cost. Similar process to windows. -  **Walls:**  Determining the total area and cost of walls. In this case, we need to read out the total area, and not the total number of units.
 
-##Q: What (use cases) need to be done before you can start your use case?
+## Q: What (use cases) need to be done before you can start your use case?
 
 **Preconditions:**  The successful execution of this use case depends on the following conditions: - Availability of a complete and accurate IFC model of the building. Which is well done and carefully planned. - Property sets associated with building elements, containing relevant price and quantity information. This is very omportant for the model to work.
 
-##Q: What is the input data for your use case?
+## Q: What is the input data for your use case?
 
 **Input Data:**  The essential input data for this use case includes: - An IFC Model of the Building: This serves as the digital representation of the building's components. By having access to this file, you have a good starting point for calculating quantities. - Property Sets with Price Information: These property sets contain price data for individual building elements. - Quantity Information: Data on quantities, as length and width of building elements, and number of various components in the building such as doors and windows.
 
-##Q: What other use cases are waiting for your use case to complete?
+## Q: What other use cases are waiting for your use case to complete?
 
 **Dependent Use Cases:**  This use case does not have direct dependencies on other use cases, but it may provide data that could be used in subsequent use cases, such as cost estimation for the entire building project.
