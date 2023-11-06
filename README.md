@@ -1,3 +1,4 @@
+# Report
 ### 3A: Analyze Use Case
 
 **Goal:** The goal of the cost estimation tool/workflow is to streamline and automate the calculation of the total project cost as well as the costs for individual building components within the construction project.
