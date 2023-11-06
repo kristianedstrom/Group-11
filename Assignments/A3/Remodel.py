@@ -21,9 +21,9 @@ try:
 
     # Placeholder for a price library (you need to populate this with actual prices)
     price_library = {
-        "IfcWindow": 7000.0,  # Price per unit for IfcWindow
-        "IfcDoor": 4500.0,    # Price per unit for IfcDoor
-        "IfcWall": 20000.0,    # Price per unit for IfcWall
+        "IfcWindow": 1000.0,  # Price per unit for IfcWindow
+        "IfcDoor": 2000.0,    # Price per unit for IfcDoor
+        "IfcWall": 3000.0,    # Price per unit for IfcWall
     }
 
     # Loop through the specified IFC classes
@@ -45,7 +45,7 @@ try:
             elif ifc_class == "IfcWall":
                 total_wall_count += 1
 
-                # Calculate the price based on unit price from the price library (customize based on your model)
+                # Calculate the price based on unit price from the price library
                 if ifc_class in price_library:
                     price_per_unit = price_library[ifc_class]
                     total_price_walls += price_per_unit
