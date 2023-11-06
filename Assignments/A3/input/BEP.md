@@ -2,7 +2,7 @@
 
 **Project:** Building Cost Calculation
 
-**Client:** [Your Name]
+**Client:** Unknown
 
 **Date:** 2023-11-06
 
