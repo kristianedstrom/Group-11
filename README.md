@@ -26,6 +26,7 @@ The following BIM software will be used for this project:
 
 * IfcOpenShell
 * Python
+* BlenderBIM
 
 **4. BIM Process**
 
