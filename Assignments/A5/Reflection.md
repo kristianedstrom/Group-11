@@ -3,7 +3,7 @@
 ## Learning excerience
 When we started this course, we didn't know anything about BIM. It felt like we were at level 0, just starting out and confused about what BIM even meant. As we went through the course, things started to make more sense. We learned about how BIM is used in different roles and practical situations. 
 
-Even though we've come a long way, there's still a lot we need to figure out. One big thing is understanding how to use programming in BIM. It seems like knowing more about that could help us do more complicated stuff with BIM. We're also working on keeping things simple when we explain BIM cases so that other people can understand them easily. 
+Even though we've come a long way, there's still a lot we need to figure out. One big thing is understanding how to use programming in BIM. It seems like knowing more about that could help us do more complicated stuff with BIM. We're also working on keeping things simple when we explain BIM cases so that other people can understand them easily. In assignment 4 we our level as level 1, so we have had progress in our understanding of OpenBIM and how it works. 
 
 Looking forward, we see the potential of using OpenBIM in our future projects. We've realized it can be effective, but we need to learn more about it and actually use it more to get the hang of it. So, while we're not experts yet, we're excited about the possibilities OpenBIM offers for our future work.
 
@@ -16,15 +16,15 @@ Concerning the tools, the variety provided proved a bit overwhelming at our curr
 
 ## Recieved feedback
 
-Our project garnered feedback from two distinct groups, both operating at a higher level of competence. The exploration of the potential applications of BIM was particularly intriguing, especially when juxtaposed with the simplicity of our code. Despite its straightforward nature, our approach resonated with the evaluators who expressed appreciation for the underlying concept and the well-defined structure of our work.
+Our project garnered feedback from two distinct groups, both operating at a higher level of competence. The exploration of the potential applications of BIM was particularly intriguing, especially when contrasted with the simplicity of our code. Despite its straightforward nature, our approach resonated with the groups who expressed appreciation for the underlying concept and the well-defined structure of our work.
 
 The positive responses extended to the organization and clarity of our project documentation. Our use of Markdown files in GitHub, coupled with detailed code descriptions, received commendation. Additionally, the concise and straightforward nature of our video content was well-received.
 
-However, valuable insights for enhancement emerged during the feedback sessions. A notable area for improvement is the extraction of the pricing list within our code. Evaluators recommended incorporating functionality that enables the retrieval of specific pricing information from an Excel sheet. This enhancement would not only encompass gathering the percentage of each component but also retrieving the corresponding cost associated with each component.
+However, valuable insights for enhancement emerged during the feedback sessions. A notable area for improvement is the extraction of the pricing list within our code. The groups recommended incorporating functionality that enables the retrieval of specific pricing information from an Excel sheet. This enhancement would not only encompass gathering the percentage of each component but also retrieving the corresponding cost associated with each component.
 
 ## Future
 
-"In the future, we plan to delve into the utilization of OpenBIM tools as we continue to enhance our knowledge on the coding side of things. While acknowledging the inherent difficulty in grasping and learning these tools, we recognize their potential effectiveness in streamlining our processes.
+In the future, we plan to delve into the utilization of OpenBIM tools as we continue to enhance our knowledge on the coding side of things. While acknowledging the inherent difficulty in grasping and learning these tools, we recognize their potential effectiveness in streamlining our processes.
 
 Understanding OpenBIM may pose challenges, but its capacity to enhance collaboration and efficiency makes it a compelling tool to explore. As we navigate the learning curve, we aim to harness its capabilities to augment our project workflows and data management.
 
