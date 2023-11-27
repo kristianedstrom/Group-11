@@ -8,6 +8,11 @@ Even though we've come a long way, there's still a lot we need to figure out. On
 Looking forward, we see the potential of using OpenBIM in our future projects. We've realized it can be effective, but we need to learn more about it and actually use it more to get the hang of it. So, while we're not experts yet, we're excited about the possibilities OpenBIM offers for our future work.
 
 ## Process
+The course was instrumental in preparing us for our thesis questions, despite the abundance of information on Learn, which, at times, felt somewhat disorganized. Fortunately, our professors played a crucial role in helping us navigate through the complexities and make sense of the new concepts.
+
+In terms of use cases, a more specific and targeted approach would have been preferable. The broad nature of the cases necessitated a significant investment of time in understanding case-specific details, diverting our attention from the fundamental BIM concepts. A streamlined and focused use case would have allowed us to delve deeper into the core BIM aspects without getting bogged down in the intricacies of individual projects.
+
+Concerning the tools, the variety provided proved a bit overwhelming at our current skill level. Reducing the number of tools would have been beneficial, enabling us to concentrate on mastering a more manageable set. While pinpointing specific tools to exclude may be challenging, a more curated selection aligned with the course's learning objectives would have facilitated a better understanding of each tool's functionality and application.
 
 ## Recieved feedback
 
